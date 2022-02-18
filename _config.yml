@@ -109,7 +109,7 @@ author:
   bio              : "Software Engineer, Freelancer, Web Developer"
   location         : "Vietnam"
   email            : "harrisonphan5@gmail.com"
-  links
+  links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/harrison-phan-b348a4220/"
@@ -122,9 +122,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/harrisdevv"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/harrisphan5"
 
 # Site Footer
 footer:
@@ -138,9 +135,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/harrisdevv"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/harrisphan5"
 
 
 # Reading Files
