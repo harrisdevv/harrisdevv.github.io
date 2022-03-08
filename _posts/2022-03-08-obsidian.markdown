@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why note-taking app made my day! - Obsidian"
-date:   2022-02-02 14:15:41 +0700
+date:   2022-08-03 14:15:41 +0700
 categories: obsidian learn brain 
 ---
 Are you tired of taking paper notes, the pen out of ink, lazy to buy many notebooks! Then, come to this blog, and you will find an alternative to taking notes!
