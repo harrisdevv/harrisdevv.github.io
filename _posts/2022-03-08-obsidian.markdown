@@ -2,8 +2,8 @@
 title:  "Note-taking app made my day!"
 date:   2022-03-08 14:15:41 +0700
 header:
-- image: /assets/images/obsidian.jpeg
-- image: /assets/images/obsidian.jpeg
+  image: /assets/images/obsidian.jpeg
+  og_image: /assets/images/obsidian.jpeg
 categories: 
 - learning-style 
 - note-taking 
