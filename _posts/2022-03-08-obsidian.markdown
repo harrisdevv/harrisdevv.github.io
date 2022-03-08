@@ -1,10 +1,14 @@
 ---
-layout: posts
-title:  "Note-taking app made my day! - Obsidian"
+title:  "Note-taking app made my day!"
 date:   2022-03-08 14:15:41 +0700
-categories: learning-style note-taking 
 header:
-  teaser: /assets/images/obsidian.jpeg
+- image: /assets/images/obsidian.jpeg
+- image: /assets/images/obsidian.jpeg
+categories: 
+- learning-style 
+- note-taking 
+tags:
+- obsidian
 ---
 Are you tired of taking paper notes, the pen out of ink, lazy to buy many notebooks! Then, come to this blog, and you will find an alternative to taking notes!
 This topic is about using the electric note-taking app for many reasons. I spent two months using the app, and it made me more effective than ever !, So let's get started.
