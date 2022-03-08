@@ -10,17 +10,17 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+#theme                  : "minimal-mistakes-jekyll"
+#remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Technology is power"
+title                    : "Techie Delight"
 title_separator          : "-"
-subtitle                 : "Making stuff become more intelligent"
+subtitle                 : ""
 name                     : "Harrison Phan"
-description              : "I Love building tools that people use to maximize productivity on a day to day basis. Also, I love writing blogs about interesting technology I learned in my free time."
+description              : "I Love building tools that people use to maximize productivity on a day to day basis."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "harrisdevv" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Harrison Phan"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "Software Engineer, Freelancer, Web Developer"
+  bio              : "Software Engineer, Boring Techie Guy, Reader"
   location         : "Vietnam"
   email            : "harrisonphan5@gmail.com"
   links:
