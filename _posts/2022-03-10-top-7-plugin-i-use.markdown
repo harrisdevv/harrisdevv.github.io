@@ -8,7 +8,8 @@ categories:
 tags:
 - obsidian
 ---
-Note-taking apps are growing nowadays because of more and more information on the internet, and we can't just take paper notes to capture information fast and learn it effectively. So this topic is about Obsidian - my favorite note-taking app; I will show you seven plugins that I favor the most. Let's get started!
+Note-taking apps are growing nowadays because of more and more information on the internet, and we can't just take paper notes to capture information fast and learn it effectively. So this topic is about Obsidian - my favorite note-taking app.
+In this blog, I will show you seven plugins that I favor the most. Let's get started!
 
 # 1. Day Planner
 
@@ -26,7 +27,7 @@ Whenever I start the day, I just need to open Obsidian App, go to the same folde
 
 # 2. Juggl
 
-- This plugin is an alternative to Global Graph. It supports many features:
+This plugin is an alternative to Global Graph. It supports many features:
 
  + create the graph for local notes
 
@@ -53,7 +54,9 @@ This plugin supports automatically adding a specific template for a specific fol
 
 # 5. Excalidraw
 
-Do you want to draw? Let's go with Excalidraw. It's awesome for me the first time I've installed it. The plugin supports drawing anything and embeds the picture of your draw to any notes you want. Besides that, It gives you a lot of types of drawing, such as UML Diagram, flowcharts, etc. You can get more kinds of draws by downloading them from the internet and adding it to the Excalidraw window. Now, I have a lot of visual notes in my folder.
+Do you want to draw? Let's go with Excalidraw. It's awesome for me the first time I've installed it. The plugin supports drawing anything and embeds the picture of your draw to any notes you want. Besides that, It gives you a lot of types of drawing, such as UML Diagram, flowcharts, etc. You can get more kinds of draws by downloading them from the internet and adding it to the Excalidraw window. 
+
+Now, I have a lot of visual notes in my folder!
 
   
 
@@ -82,11 +85,11 @@ I feel like the mind-map makes me easier to read any notes no matter how much le
 
 This plugin supports many features:
 
-- Using simple language to filter data from other notes and then present it to the current note. For example, you want to filter task (- [ ]) in all notes containing specific text and present those tasks in the current note.
+- Using simple language to filter data from other notes and then present it to the current note. For example, you want to filter task (with prefix '- [ ]') in all notes containing specific text and present those tasks in the current note.
 
 - Use Javascript to do it if you know this programming language. That's a very nice fit for any programmer who knows basic Javascript. You can process your other notes to give you essential data or insight.
 
-# More
+# More Plugins
 Except for these essential plugins I mentioned in this topic, there are a lot of useful plugins you can explore, such as Emoji Toolbar, Quick Switcher, QuickAdd, Anki, Task, Reminder.
 
 In conclusion, Obsidian's plugins are growing very fast in number and quality to support many users worldwide to create a better notes system. And because Obsidian is open-source, you are free to contribute your ideas to make it better.
