@@ -40,5 +40,5 @@ After using it for three months, I find that Obsidian has served a lot of the fe
 - Support editing with vim (an application that helps to type quickly) - often used by programmers, helping to optimize the typing process.
 - Create plans, tasks, and reminders for each task: convenient for personal project management.
 - Create templates for the same content: optimize for storing information in the format you want as quickly as possible.
-- In addition, there are many other plugins that I use. You can see details in the blog [[Top 7 Plugins I used in Obsidian]].
+- In addition, there are many other plugins that I use. You can see details in the blog [Top 7 awesome Obsidian's Plugin I've used everyday](/learning-style/note-taking/top-7-plugin-i-use/).
 - Obsidian is an open-source application. Users only have to pay when using a data synchronization package through cloud storage applications such as Dropbox, Google Drive. I do not need this feature because I rarely transfer notes over the network.
