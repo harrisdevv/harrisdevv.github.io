@@ -1,0 +1,25 @@
+{
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "legacyEditor": true,
+  "livePreview": true,
+  "vimMode": false,
+  "promptDelete": true,
+  "showUnsupportedFiles": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "assets/images/",
+  "defaultViewMode": "source",
+  "newFileFolderPath": "📥 Inbox",
+  "foldHeading": true,
+  "foldIndent": true,
+  "newLinkFormat": "absolute",
+  "tabSize": 4
+}

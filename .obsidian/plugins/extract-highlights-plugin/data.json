@@ -1,0 +1,11 @@
+{
+  "headlineText": "H=>$NOTE_TITLE",
+  "addFootnotes": false,
+  "useBoldForHighlights": false,
+  "createLinks": false,
+  "autoCapitalize": true,
+  "createNewFile": true,
+  "explodeIntoNotes": false,
+  "openExplodedNotes": false,
+  "createContextualQuotes": false
+}

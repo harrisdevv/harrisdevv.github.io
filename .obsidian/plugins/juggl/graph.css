@@ -1,0 +1,11 @@
+
+/* For a full overview of styling options, see https://js.cytoscape.org/#style */
+node {
+    width: 15px;
+    height: 15px;
+    font-size: 11px;
+}
+
+edge {
+	width: 0.8px;
+}

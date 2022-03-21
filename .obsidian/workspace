@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "b8e7e6bdc5e5684c",
+    "type": "split",
+    "children": [
+      {
+        "id": "83557fd62af7c6c8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-03-21-Obsidian-With-JS-script.md",
+            "mode": "source",
+            "backlinks": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19169455db68f8a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "68ec5f1560d5418a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b5be3be6c9c3fc9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f0514986c389d78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4043425954836d81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Write/start",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9eaf009040dbe796",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22de81bbd4bcb6c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8459142c5b37c93d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bab30341a6754fc3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc7b56a766ed5201",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "b383a0d922d7c609",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2022-03-21-Obsidian-With-JS-script.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13d51809d5e3d004",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e0acce3b4c38296",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2022-03-21-Obsidian-With-JS-script.md"
+              }
+            }
+          },
+          {
+            "id": "ea764e2fc1b67355",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "b567a5380301f5b1",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "83557fd62af7c6c8",
+  "lastOpenFiles": [
+    "_posts/2022-03-21-Obsidian-With-JS-script.md",
+    "assets/images/Pasted image 20220310155518.png",
+    "assets/images/Pasted image 20220321123052.png",
+    "_posts/2022-03-11-test thoi thu xem file.md",
+    "assets/images/Pasted image 20220311164722.png",
+    "_posts/Templates/Blog.md",
+    "_posts/2022-03-11-java-7-feature.md",
+    "_posts/java is awesome.md",
+    "Day Planners/Annually/2022.md",
+    "_posts/Templates/testkosudung.md"
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "choices": [
+    {
+      "id": "a0fd40d3-971a-46b0-abf8-21520db41a08",
+      "name": "Add Daily QA,Ideas,Thoughts",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Quick Capture/Thought_{{DATE:}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": "Templates/QC - QA, Thuoghts, Ideas.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "- {{DATE:HH:mm}} {{VALUE}} / {{VALUE:from source (Link, Page..)?}}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "ed1ad213-d7a9-4d93-a589-d3a3821d154d",
+      "name": "Add Daily Task",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Quick Capture/Task_{{DATE}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": "Templates/QC - QA, Thuoghts, Ideas.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "{{DATE:HH:mm}} {{VALUE}} - {{VALUE:Priority}}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "# {{DATE:}}",
+        "insertAtEnd": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "18507a64-fb82-4695-8e41-cb672f2d0207",
+      "name": "Add Remember Note",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Quick Capture/Learn_{{DATE:}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": "Templates/QC - QA, Thuoghts, Ideas.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "- {{DATE:HH:mm}} {{VALUE}} / {{VALUE: Additional info}}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "# {{DATE:}}",
+        "insertAtEnd": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "e9012a9a-9679-4e0d-997f-25cf44c83bd7",
+      "name": "Open Today Day Planner",
+      "type": "Macro",
+      "command": false,
+      "macroId": "4479966b-7363-492c-9f92-ad87eb5dea65"
+    },
+    {
+      "id": "80141e10-ba96-42f0-8821-4bb5a34fbb79",
+      "name": "Open MOC",
+      "type": "Macro",
+      "command": true,
+      "macroId": "4479966b-7363-492c-9f92-ad87eb5dea65"
+    },
+    {
+      "id": "01d9b651-d388-4dc2-bb1c-cf1bf95851e1",
+      "name": "Read text of active file",
+      "type": "Macro",
+      "command": true,
+      "macroId": "96f99853-8270-40ea-a56b-de0d53050f46"
+    },
+    {
+      "id": "ef95b95c-3bac-4227-8008-49177244b849",
+      "name": "Format highlight for Memory Palace",
+      "type": "Macro",
+      "command": true,
+      "macroId": "0f7c05dd-bd64-4ae4-b5d2-9a00093eef8d"
+    },
+    {
+      "id": "3e5db902-315c-41d8-b84b-b22a93497c96",
+      "name": "Capture Highlight for Memory Palace",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "\n=={{VALUE}} | {{VALUE: Image}}==^{{VALUE: Block Ref Number}}\n"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "a643bddd-ec7b-42ee-b5ec-123b17402c87",
+      "name": "Template Videos",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Jenks/Youtube.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE}}📹{{VALUE:Video name}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "6dfb28c3-3ec5-4f0c-bd2a-73b98b57bf6a",
+      "name": "Add Videos",
+      "type": "Macro",
+      "command": true,
+      "macroId": "6e1eccb9-104c-4127-8454-cfee4f80bc87"
+    },
+    {
+      "id": "3fe6b398-78d4-454d-a6a0-b58a21ef4129",
+      "name": "Template Books",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Book.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE}}📘{{VALUE:Book Title}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "6a0914c2-0a96-4ece-9db3-8523ed3419cd",
+      "name": "Capture Books",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "{{DATE}}📘{{VALUE:Book Title}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "61c17695-a245-40f1-b2b4-341ee2c19c54",
+      "name": "Macro Add Books",
+      "type": "Macro",
+      "command": true,
+      "macroId": "16a55dce-9eb4-41d1-89f8-43d3225c2d74"
+    },
+    {
+      "id": "4753721d-3b13-42dd-9c6b-de8fa491d962",
+      "name": "Copy text to Excalidraw MP",
+      "type": "Macro",
+      "command": false,
+      "macroId": "bbeb7534-ed1f-4eab-9431-8b25240d5de3"
+    },
+    {
+      "id": "9a318d03-3613-4e48-8680-690f0c3e51cf",
+      "name": "Add Tweet",
+      "type": "Macro",
+      "command": false,
+      "macroId": "4479966b-7363-492c-9f92-ad87eb5dea65"
+    },
+    {
+      "id": "fa43ef7d-9e37-4532-84f0-b088a189151d",
+      "name": "Template Tweet",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Jenks/Tweet.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:}} ☁ {{NAME}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "📥 Inbox"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "7f3503f6-e0a5-41a9-ae1c-e01c96d5ec4c",
+      "name": "Add Blog",
+      "type": "Template",
+      "command": false,
+      "templatePath": "_posts/Templates/Blog.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE}}-{{NAME}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "_posts"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Open MOC",
+      "id": "4479966b-7363-492c-9f92-ad87eb5dea65",
+      "commands": [
+        {
+          "name": "Hotkeys for specific files: Open 🧠 Second Brain/!Brain",
+          "type": "Obsidian",
+          "id": "69ca6d0b-bc0f-408b-9752-4b8be770c40c",
+          "commandId": "obsidian-hotkeys-for-specific-files:🧠 Second Brain/!Brain.md"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "db1036a2-a616-49a1-a6e9-e8921ffc5117",
+          "time": 100
+        },
+        {
+          "name": "Juggl: Open local graph of note",
+          "type": "Obsidian",
+          "id": "a410f858-cb13-43c7-abc5-598868ef7692",
+          "commandId": "juggl:open-vis"
+        },
+        {
+          "name": "Close active pane",
+          "type": "Obsidian",
+          "id": "43c5d0a8-511b-4d80-8249-b0f974d056b9",
+          "commandId": "workspace:close"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Read text of active file",
+      "id": "96f99853-8270-40ea-a56b-de0d53050f46",
+      "commands": [
+        {
+          "name": "ReadActiveFile",
+          "type": "UserScript",
+          "id": "23326073-1d88-416a-8227-21cc2ecff080",
+          "path": "Scripts/ReadActiveFile.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Format highlight Memory Palace",
+      "id": "0f7c05dd-bd64-4ae4-b5d2-9a00093eef8d",
+      "commands": [
+        {
+          "name": "Select active line",
+          "type": "EditorCommand",
+          "id": "6d5094c2-ddf3-4c9a-9f36-db1fd9f357a3",
+          "editorCommandType": "Select active line"
+        },
+        {
+          "name": "Cut",
+          "type": "EditorCommand",
+          "id": "50e95c41-e1e3-4406-b3c3-13070ab562b3",
+          "editorCommandType": "Cut"
+        },
+        {
+          "name": "Toggle highlight",
+          "type": "Obsidian",
+          "id": "96b054ae-3733-445e-955b-ed955c5b0ef0",
+          "commandId": "editor:toggle-highlight"
+        },
+        {
+          "name": "Paste",
+          "type": "EditorCommand",
+          "id": "8d36bc78-0105-471c-a972-8040db29dbf2",
+          "editorCommandType": "Paste"
+        },
+        {
+          "name": "Highlight MP",
+          "type": "NestedChoice",
+          "id": "239c460d-3caa-4195-b6b4-d9df9b604577",
+          "choice": {
+            "id": "8b7841e6-d766-4c5f-a7b0-ee7a2f7056e1",
+            "name": "Highlight MP",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": false,
+              "format": ""
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Add Videos",
+      "id": "6e1eccb9-104c-4127-8454-cfee4f80bc87",
+      "commands": [
+        {
+          "name": "Template Videos",
+          "type": "Choice",
+          "id": "fe51824e-256d-4b5f-81dc-3b8f54e1e2f5",
+          "choiceId": "a643bddd-ec7b-42ee-b5ec-123b17402c87"
+        },
+        {
+          "name": "Capture Video",
+          "type": "Choice",
+          "id": "b0c29558-df77-434c-9df3-3c9f40300054",
+          "choiceId": "ced71a09-342d-43ae-b8e6-9ea25a1ebec7"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "342732ba-5de8-46c0-bef5-3941e8cdada3",
+          "time": 100
+        },
+        {
+          "name": "Close active pane",
+          "type": "Obsidian",
+          "id": "09be0ae1-08fb-412b-b2b8-1ac444799dfb",
+          "commandId": "workspace:close"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Add Books",
+      "id": "16a55dce-9eb4-41d1-89f8-43d3225c2d74",
+      "commands": [
+        {
+          "name": "Template Books",
+          "type": "Choice",
+          "id": "fec234f4-b10a-429a-b400-804b9b06bf46",
+          "choiceId": "3fe6b398-78d4-454d-a6a0-b58a21ef4129"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "6337d45e-96f3-46ba-b01f-8d6e71d30364",
+          "time": 100
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Copy line to Excalidraw MP",
+      "id": "bbeb7534-ed1f-4eab-9431-8b25240d5de3",
+      "commands": [
+        {
+          "name": "Select active line",
+          "type": "EditorCommand",
+          "id": "c958ee2f-8f88-4636-aad9-d7fc895b95af",
+          "editorCommandType": "Select active line"
+        },
+        {
+          "name": "Copy",
+          "type": "EditorCommand",
+          "id": "a2873121-1e2a-45af-a38f-c6596710753f",
+          "editorCommandType": "Copy"
+        },
+        {
+          "name": "Focus on pane to the right",
+          "type": "Obsidian",
+          "id": "0e151ba4-1e82-4737-a737-2fad9fdee8d1",
+          "commandId": "editor:focus-right"
+        },
+        {
+          "name": "Copy",
+          "type": "EditorCommand",
+          "id": "5bcc0486-84d0-4348-8181-2d3e5ba729f5",
+          "editorCommandType": "Copy"
+        },
+        {
+          "name": "Focus on pane to the left",
+          "type": "Obsidian",
+          "id": "206d129f-7891-413e-995d-42c2a00a5098",
+          "commandId": "editor:focus-left"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Open Today Day Planner & Focus",
+      "id": "94fc57b5-a425-421f-98e9-9a925e586d69",
+      "commands": [
+        {
+          "name": "Hotkeys for specific files: Open Day Planners/Annually/2022",
+          "type": "Obsidian",
+          "id": "541fba11-ec04-43a4-a556-da74891b0428",
+          "commandId": "obsidian-hotkeys-for-specific-files:Day Planners/Annually/2022.md"
+        },
+        {
+          "name": "Day Planner: Show today's Day Planner",
+          "type": "Obsidian",
+          "id": "ce665626-8f9c-41e4-af47-61910e17eec3",
+          "commandId": "obsidian-day-planner:app:show-day-planner-today-note"
+        }
+      ],
+      "runOnStartup": true
+    }
+  ],
+  "inputPrompt": "single-line"
+}
