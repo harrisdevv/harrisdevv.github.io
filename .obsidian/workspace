@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "83557fd62af7c6c8",
+        "id": "c739ad055f4fb604",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_posts/2022-03-21-Obsidian-With-JS-script.md",
-            "mode": "source",
-            "backlinks": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -102,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-03-21-Obsidian-With-JS-script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2022-03-21-Obsidian-With-JS-script.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,8 +150,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "83557fd62af7c6c8",
+  "active": "c739ad055f4fb604",
   "lastOpenFiles": [
+    "assets/images/Pasted image 20220430112037.png \"Anki day streak\".md",
+    "_posts/2022-04-30-Anki-Janki-Method-Practice.md",
     "_posts/2022-03-21-Obsidian-With-JS-script.md",
     "assets/images/Pasted image 20220310155518.png",
     "assets/images/Pasted image 20220321123052.png",
@@ -166,8 +161,6 @@
     "assets/images/Pasted image 20220311164722.png",
     "_posts/Templates/Blog.md",
     "_posts/2022-03-11-java-7-feature.md",
-    "_posts/java is awesome.md",
-    "Day Planners/Annually/2022.md",
-    "_posts/Templates/testkosudung.md"
+    "_posts/java is awesome.md"
   ]
 }
