@@ -54,4 +54,4 @@ That's all, thank the author of Janki Method once again for the excellent blog s
 Thank for reading, Hope you doing well!
 
 # References
-1. [Janki Method — Using SRS to Improve Programming | Jack Kinsella](https://www.jackkinsella.ie/articles/janki-method)
+- [Janki Method](https://www.jackkinsella.ie/articles/janki-method)
