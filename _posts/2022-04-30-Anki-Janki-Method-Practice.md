@@ -24,14 +24,14 @@ For easy to know all the rules I applied to my process, I will list general rule
 “Every time you make a mistake carry out a post-mortem and try to figure out the lessons in the experience. Think about what you would need to know to prevent that mistake from occurring again, and turn this insight into new flashcards.”
 6. _The sixth rule of **Janki** method encourages regular critical reflection:_  
 “At the end of every project ask yourself what lessons you learned and what you would do differently if you were to repeat the project with the benefit of hindsight.”
-7 . _The seventh rule of **Janki** keeps your decks in shape._  
+7. _The seventh rule of **Janki** keeps your decks in shape._  
  “Delete or modify any incorrect, outdated, difficult to remember, incomplete or unnecessary cards. Update existing cards as improved understanding dawns.”
 8. _The eighth rule of **Janki** encourages you to use your readings of other people’s code as a source of learning:_  
 “Read code regularly. If you come across something interesting – be that an algorithm, a hack, or an architectural decision - create a card detailing the technique and showing the code.”
  - Source: [Janki Method Source](https://www.jackkinsella.ie/articles/janki-method)
 
 # How do I apply Janki Method to my learning routine?
-To easy to know which rule I apply, I use simple words like "Rule 1" ("1" is the order of the rules based on the list I mentioned in section #What is Janki Method).
+To easy to know which rule I apply, I use simple words like "Rule 1" ("1" is the order of the rules based on the list I mentioned in section #What is Janki Method?).
 Now to apply this method to my learning routine, I add all the above rules to my Anki deck to learn.
 - To Apply **Rule 1**, I create many cards a day about whatever I learn such as Hibernate, Spring Boot, then Programming Paradigm, Code Convention ... then I add those content into My Obsidian Note, Make Anki Card for it in Obsidian. Then I used the Obsidian_To_Anki Plugin to transfer Obsidian notes to Anki App. Done! Now, My Anki App has all of my up-to-date knowledge, ready to review every day. 
 - Now I can apply **Rule 2**, And I write my repeated task as "Review Anki" to my daily planner To notify me every day to review my Anki App. Then I commit to it every day. And fortunately, I make 29 days commitment completed, the result stats show in the below pictures:
@@ -46,8 +46,8 @@ After 1 month applied this method, I feel more confident about what I've learned
 
 # My future goals
 So as the time pass, there are a lot of cards will be added, these are my future goals to maintain learning habits with Anki:
-- I make strategies to balance the time every day to review Anki cards. Just 30-60 minutes every morning even if I add more than several hundred cards a day. Then make a strategy to schedule 2 or 3 reviewing sections every day in the Morning, Afternoon, and Evening.
-- Find a model to automatically cluster "easy, medium, hard" cards into a specific deck which configured for a longer revising time or to be reviewed more frequently.
+- I make strategies to balance the time every day to review Anki cards. Just 30-60 minutes every morning even if I add more than several hundred cards a day. Then make a strategy to schedule 2 or 3 reviewing sections in a day - maybe in the morning, afternoon, and evening.
+- Find a model to automatically cluster by difficulty levels such as "easy, medium, hard" cards into a specific deck which configured for a longer revising time or to be reviewed more frequently.
 
 That's all, thank the author of Janki Method once again for the excellent blog supporting me many more in learning.
 
