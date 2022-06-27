@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c739ad055f4fb604",
+        "id": "c824606945a416d9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-04-30-Anki-Janki-Method-Practice.md",
+            "file": "_posts/2022-06-14-Anki-Learning-Effectively.md",
             "mode": "source",
             "backlinks": true
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-04-30-Anki-Janki-Method-Practice.md",
+                "file": "_posts/2022-06-14-Anki-Learning-Effectively.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-04-30-Anki-Janki-Method-Practice.md"
+                "file": "_posts/2022-06-14-Anki-Learning-Effectively.md"
               }
             }
           },
@@ -157,17 +157,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c739ad055f4fb604",
+  "active": "c824606945a416d9",
   "lastOpenFiles": [
+    "_posts/2022-06-14-Anki-Learning-Effectively.md",
+    "_posts/2022-06-25-Working-Remotely-In-My-Way 1.md",
+    "_posts/2022-06-26-Working-Remotely-In-My-Way.md",
     "_posts/2022-04-30-Anki-Janki-Method-Practice.md",
     "_posts/2022-03-21-Obsidian-With-JS-script.md",
     "assets/images/Pasted image 20220430112037.png \"Anki day streak\".md",
     "assets/images/Pasted image 20220310155518.png",
     "assets/images/Pasted image 20220321123052.png",
     "_posts/2022-03-11-test thoi thu xem file.md",
-    "assets/images/Pasted image 20220311164722.png",
-    "_posts/Templates/Blog.md",
-    "_posts/2022-03-11-java-7-feature.md",
-    "_posts/java is awesome.md"
+    "assets/images/Pasted image 20220311164722.png"
   ]
 }
