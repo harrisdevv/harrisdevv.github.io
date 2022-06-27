@@ -9,6 +9,7 @@ tags:
 - Write/start 
 ---
 After using Anki for 5 months use a little and 3 months aggressively. I do many things to improve my usage of Anki more effectively, let's go into detail. 
+
 # What I learned in 3 months using Anki
 - **Don't blame your memory**. Be kind of yourself when you answer the question wrong. I don't need to answer correctly like the original answer to show I am "Good" at the card. Maybe at the first time, I just remember 20%, then later I remember 30% then 70%, or use another word to answer the question. It's ok to feel dumb the first time but It's a good period for your brain to absorb, arrange and retrieve new knowledge. Don't blame your memory. Just focus on the process. And after I stop to blamed myself and just walk the process, I found that I remember more and in a longer time than ever before. When you go running, you don't need to run 10km the first time, just set a small goal that can trigger your eagerness, then take action, and adjust the goal based on your real accomplishment. And finally, don't blame, don't excuse, don't overhope about your result. 
 - **Play music** that I love when learning new cards (new things). I know learning anything new for the first time takes time and energy, it's so boring if you don't have anything interesting to go with you. So I can listen to my favorite music which will give me more motivation to complete this process, and it's getting your right brain isn't boring. However, I think instrumental music is a must to keep me away from the lyric distraction.
