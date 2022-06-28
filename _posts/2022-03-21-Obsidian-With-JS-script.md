@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Optimize keyword review time with Obsidian & JS script
-date:   2022-03-21 11:09:25 +0700
+date:   2022-03-21 21:09:25 +0700
 categories: 
 - obsidian
 - learning

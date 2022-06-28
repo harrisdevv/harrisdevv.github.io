@@ -1,13 +1,13 @@
 ---
 layout: posts
 title: Work remotely
-date:   2022-06-25 10:39:25 +0700
+date:   2022-06-25 18:39:25 +0700
 categories: 
 - remotework
 tags:
 - Write/start 
 ---
-Remote working is becoming a favorite working style of people all over the world, especially with the unpredictable developments of the covid epidemic. Typically in the technology sector, large technology companies such as Facebook, and Google allow more employees to work remotely. The shift to a remote working model represents huge changes in the management of large companies. In keeping with the spirit of working remotely, I also wanted to share some ways that I can work remotely more effectively. Let's get started.
+Remote working is becoming a favorite working style of people all over the world, especially with the unpredictable outbreaks of the covid epidemic. Typically in the technology sector, large technology companies such as Facebook, and Google allow more employees to work remotely. The shift to a remote working model represents huge changes in the management of large companies. In keeping with the spirit of working remotely, I also wanted to share some ways that I can work remotely more effectively. Let's get started.
 
 So what is effective?
 In my simple mind, Among Peter Drucker's management philosophies, I like some of his thoughts on effective work is doing two things: Choose the right thing to do and then do it right. This blog will focus on the second work, which is how to "accomplish more" while doing work remotely.
@@ -18,7 +18,7 @@ First, I think I must have a more proactive mindset at work. The number of jobs 
 # How I get more proactive
 Here are my daily tasks, habits:
 - Actively planning work: This can be everyone's job, whether working remotely or not. Take the initiative to write down a to-do list on a note or paper. Writing down the task helps me remember it easier. Personally, I like to use Obsidian for taking notes because it has a Templater Plugin and a Day Planner to make my own notes every day. Writing it down is also a great way to remember what to do when you don't have a computer to write on.
-- Report what you need to do to the group, this is a way for me to synchronize information with group members. We can use the Kanban board, fill in our work as In progress, and when we finish each task, update its status on the board so other members can know, this helps teamwork. more circuit.
+- Report what you need to do to the group, this is a way for me to synchronize information with group members. We can use the Kanban board, fill in our work as In progress, and when we finish each task, update its status on the board so other members can know, this makes teamwork go more smoothly.
 - Actively participate in working groups: When working from home, there will be times when we feel lonely and lost because there is no one to talk to (I'm a bit introverted, so I don't feel much lonely 😎). To overcome this state, I can join online workgroups like on website bindr.uk, or join a local co-working space. We can create our own rooms and invite people who match our interests and professions. So having teammates, is no longer lonely, and even more fun than working in the company. Sometimes I find you guys to learn more things I don't know, very useful.
 - Ask questions proactively: Oh, this part is difficult, no one wants to be stupid when asking questions. But this is also quite important. People always have questions in mind to better understand things. Create a group to share information, and ask common questions to avoid asking again and again. In addition, we can record answers to make communication more effective, some of you are afraid of typing because it slows down the communication process. Use your favorite voice chat and recorder apps and send voice messages, it's that simple.
 - Stay healthy: This is extremely simple when we stay at home, we can make our own food, go to the gym, and see our loved ones when we feel lonely. Stay mentally and physically healthy wherever you are. I often order newspapers to stand up and sit down, relax my eyes on the computer, this makes me less overweight, my eyes work longer and not dry and tired. Previously, my eyes were so dry that I could not open my eyes when driving in the sun. Love your eyes! Preparing some fruits to eat is a way to help your health better.

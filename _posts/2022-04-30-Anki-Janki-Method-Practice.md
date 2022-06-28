@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Janki Method Applying
-date:   2022-04-30 13:09:25 +0700
+date:   2022-04-30 20:09:25 +0700
 categories: 
 - Anki
 - learning

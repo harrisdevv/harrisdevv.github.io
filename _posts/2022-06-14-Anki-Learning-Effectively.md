@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: What I do to use Anki more effectively
-date:   2022-06-24 10:39:25 +0700
+date:   2022-06-24 19:29:25 +0700
 categories: 
 - Anki
 - learning
