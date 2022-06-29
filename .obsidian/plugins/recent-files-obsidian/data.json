@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-27-SpringBoot-Thymeleaf-Java-Dev",
+      "path": "_posts/2022-06-27-SpringBoot-Thymeleaf-Java-Dev.md"
+    },
+    {
+      "basename": "reserve-system",
+      "path": "assets/images/reserve-system.mp4"
+    },
+    {
       "basename": "2022-06-25-Working-Remotely-In-My-Way",
       "path": "_posts/2022-06-25-Working-Remotely-In-My-Way.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "220208-1010 Principle 2 Call attention to people’s mistakes indirectly.",
       "path": "🧠 Second Brain/Memory Palace/220208-1010 Principle 2 Call attention to people’s mistakes indirectly..md"
-    },
-    {
-      "basename": "220208-1010 Principle 3 Talk about your own mistakes before criticizing the other person.",
-      "path": "🧠 Second Brain/Memory Palace/220208-1010 Principle 3 Talk about your own mistakes before criticizing the other person..md"
     }
   ],
   "omittedPaths": [
