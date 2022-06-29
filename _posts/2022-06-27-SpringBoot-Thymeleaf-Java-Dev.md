@@ -1,14 +1,14 @@
 ---
 layout: posts
 title: Full-stack with Spring Boot & Thymeleaf 
-date:   2022-06-27 20:39:25 +0700
+date:   2022-05-27 20:39:25 +0700
 categories: 
 - java
 - dev
 tags:
 - Write/start 
 ---
-Source code at [here](https://github.com/harrisdevv/reservation-system/)
+[Source code](https://github.com/harrisdevv/reservation-system/).
 
 # Introduction
 
@@ -40,6 +40,3 @@ An Amenity Reservation System which residents (users) can log in and reserve a t
 - [x] Users should be able to create new reservations by selecting the amenity type, date, and time.
 - [x] Only logged-in users should be able to see the reservations page and create reservations.
 - [x] Check the capacity and only create new reservations if the current number of reservations does not exceed the capacity.
-
-## Demo
-![Demo Page](/assets/images/reserve-system.mp4)
