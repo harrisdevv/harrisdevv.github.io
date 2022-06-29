@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Full-stack with Spring Boot & Thymeleaf 
+title: Java Full-stack with Spring Boot & Thymeleaf 
 date:   2022-05-27 20:39:25 +0700
 categories: 
 - java
