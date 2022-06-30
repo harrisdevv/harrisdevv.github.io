@@ -8,7 +8,9 @@ categories:
 tags:
 - Write/start 
 ---
-[Source code](https://github.com/harrisdevv/reservation-system/).
+![Demo](/assets/images/Pasted image 20220630102209.png)
+
+[Source code](https://github.com/harrisdevv/reservation-system/)
 
 # Introduction
 
