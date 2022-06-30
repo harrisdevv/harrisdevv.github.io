@@ -12,7 +12,7 @@ tags:
 
 # Introduction
 
-An Amenity Reservation System which residents (users) can log in and reserve a time to use a service such as fitness center, pool, or sauna. An amenity will have a certain capacity (number of people that can use the amenity at the same time) so that people can use the amenities safely during the Covid pandemic.
+An Amenity Reservation System which residents (users) can log in and reserve a time to use a service such as fitness center, pool, or sauna. An amenity will have a certain capacity (number of people that can use the amenity at the same time) so that people can use the amenities safely during the Covid-19 pandemic.
 
 ## Built with
 * Maven

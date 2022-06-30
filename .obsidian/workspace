@@ -7,8 +7,12 @@
         "id": "c7518b9cc7d6cd64",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-05-27-SpringBoot-Thymeleaf-Java-Dev.md",
+            "mode": "source",
+            "backlinks": true
+          }
         }
       }
     ],
@@ -98,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2022-05-27-SpringBoot-Thymeleaf-Java-Dev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2022-05-27-SpringBoot-Thymeleaf-Java-Dev.md"
+              }
             }
           },
           {
@@ -152,15 +159,15 @@
   },
   "active": "c7518b9cc7d6cd64",
   "lastOpenFiles": [
+    "_posts/2022-05-27-SpringBoot-Thymeleaf-Java-Dev.md",
+    "_posts/2022-06-25-Working-Remotely-In-My-Way.md",
     "_posts/2022-06-27-SpringBoot-Thymeleaf-Java-Dev.md",
     "assets/images/reserve-system.mp4",
-    "_posts/2022-06-25-Working-Remotely-In-My-Way.md",
     "_posts/2022-06-14-Anki-Learning-Effectively.md",
     "_posts/2022-04-30-Anki-Janki-Method-Practice.md",
     "_posts/2022-03-21-Obsidian-With-JS-script.md",
     "_posts/2022-06-26-Working-Remotely-In-My-Way.md",
     "assets/images/Pasted image 20220430112037.png \"Anki day streak\".md",
-    "assets/images/Pasted image 20220310155518.png",
-    "assets/images/Pasted image 20220321123052.png"
+    "assets/images/Pasted image 20220310155518.png"
   ]
 }
