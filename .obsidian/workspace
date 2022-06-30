@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7518b9cc7d6cd64",
+        "id": "6484b111bad1165c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_posts/2022-06-25-Working-Remotely-In-My-Way.md",
-            "mode": "source",
-            "backlinks": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -102,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-06-25-Working-Remotely-In-My-Way.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2022-06-25-Working-Remotely-In-My-Way.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,7 +150,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c7518b9cc7d6cd64",
+  "active": "6484b111bad1165c",
   "lastOpenFiles": [
     "_posts/2022-06-25-Working-Remotely-In-My-Way.md",
     "_posts/2022-06-14-Anki-Learning-Effectively.md",
