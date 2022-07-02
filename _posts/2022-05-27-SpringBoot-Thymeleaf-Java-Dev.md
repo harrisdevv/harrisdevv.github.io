@@ -37,8 +37,7 @@ An Amenity Reservation System which residents (users) can log in and reserve a t
 ## Roadmap
 
 - [x] Users should be able to log in.
-- [x] The accounts of residents are pre-created and there will be no sign-up feature.
+- [x] The Users' accounts are pre created.
 - [x] Users should be able to view their reservations.
-- [x] Users should be able to create new reservations by selecting the amenity type, date, and time.
-- [x] Only logged-in users should be able to see the reservations page and create reservations.
-- [x] Check the capacity and only create new reservations if the current number of reservations does not exceed the capacity.
+- [x] Users should be able to create new entry of reservation by selecting the amenity type, date, and time.
+- [x] Check if capacity is exceeded before create reservation.
