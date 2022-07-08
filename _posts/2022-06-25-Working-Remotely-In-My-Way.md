@@ -25,11 +25,14 @@ Here are my daily tasks, habits:
 - Proactively optimize the workplace: This is the favorite of working remotely! I like to put some quotes I like at my workspace, books I often read, and pictures of my idols. This makes me feel full of energy, and feel more meaningful about my own workplace.
 - Play your favorite music: Playing music without lyrics helps me work more efficiently, avoiding my right brain from becoming boring. Some of my favorite songs also help me become more creative, and completing complex tasks becomes less tiring.
 - Work more than 30 minutes. Some studies show that when we keep the working rhythm for a long time, we will fall into the FLOW state according to the book FLOW by the author Mihaly Csikszentmihalyi. Enough time of more than 30 minutes will help us to complete tasks less tiring instead of jumping to other tasks after 20 minutes. Some people recommend following the Pomodoro method which is 30 minutes of 5-minute break, but I feel that I am suitable for 60-minute continuous work, because I think the process of programming thinking requires more seamless thinking than other tasks.
-- Keep the surroundings and computer environment more quiet: the surroundings are quiet and free from distractions. Turn off communication devices and leave a message "contact me later after 11:30 AM" and only check communications only during lunch or afternoon breaks.
+- Keep the surroundings and computer environment more quiet: the surroundings are quiet and free from distractions. Turn off communication devices and leave a status message "contact me later after 10:30 AM" and only check communications only during lunch or afternoon breaks.
 
 Habits don't come a day, to do all of the above, I have to adjust every day, and when the habit is formed, I feel lighter and happier, and at the same time get more tasks done than I ever thought. Form a habit, habits will form you.
-# Use notification software
-To optimize working time, I wrote a simple program to help me manage my personal tasks. Because I usually work with the terminal, I like the program to only operate on the terminal, I like to make it simple to be able to manipulate faster than GUI or web applications. In addition, I have to go to the internet less to avoid unnecessary news. This program includes the following main operations:
+# Use a simple notification software
+
+When I'm in a state of "full focus" on work, how do I know when to stop? What if I stay in this state and don't really complete the goal as quickly as possible? That's when I discovered I needed a little notification app to remind myself of completing, delivering each part of a task. I choose Python because it's easy to write, easy to understand, and serves the full functionality of a programming language. I decided to write software that runs as a command line because it is very convenient for my work environment, which often uses a command line.
+
+So, I wrote a simple program to help me manage my personal tasks. Because I usually work with the terminal, I like the program to only operate on the terminal, I like to make it simple to be able to manipulate faster than GUI or web applications. In addition, I have to go to the internet less to avoid unnecessary news. This program includes the following main operations:
 ![Main operations](/assets/images/Pasted image 20220627175352.png)
 - Enter the project name and task name for each project. Here could be "build DB User", "read book XYZ", etc.
 - Record the time to complete the task

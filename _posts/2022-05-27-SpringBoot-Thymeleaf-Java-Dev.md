@@ -14,7 +14,7 @@ tags:
 
 # Introduction
 
-An Amenity Reservation System in which residents reserve a time to use a service such as a fitness center, sauna, pool, etc. An amenity will have a certain capacity so that people can use the amenities safely during the Covid-19 pandemic.
+An Reservation System in which residents reserve a time to use a service (amenities) such as a fitness center, sauna, pool, etc. An amenity will have a certain capacity so that people can use the amenities safely during the Covid-19 pandemic.
 
 ## Built with
 * Maven
@@ -35,9 +35,8 @@ An Amenity Reservation System in which residents reserve a time to use a service
 * Swagger
 
 ## Roadmap
-
-- [x] Users should be able to log in.
 - [x] The Users' accounts are pre created.
+- [x] Users should be able to log in and log out.
 - [x] Users should be able to view their reservations.
 - [x] Users should be able to create new entry of reservation by selecting the amenity type, date, and time.
 - [x] Check if capacity is exceeded before create reservation.
